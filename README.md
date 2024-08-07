@@ -5,14 +5,14 @@ This project performs sentiment analysis on the IMDB dataset using various vecto
 # Dataset
 The dataset used in this project is the IMDB dataset, which contains 40,000 movie reviews labeled as positive or negative.
 
-# Models and Vectorization Techniques used
-CountVectorizer with Binary Attribute (binary=True)
+# Vectorization Techniques used
+CountVectorizer(binary=True)
 
-CountVectorizer without Binary Attribute (binary=False)
+CountVectorizer(binary=False)
 
 TfidfVectorizer
 
-Naive Bayes Models
+# Naive Bayes Models used
 
 BernoulliNB
 
