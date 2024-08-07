@@ -18,5 +18,10 @@ BernoulliNB
 
 MultinomialNB
 
+# Preprocessing
+Stopword removal
+
+Punctuation removal
+
 # Best Performing Model
 The MultinomialNB model using TfidfVectorizer provided the best accuracy after removing stopwords and punctuation.
