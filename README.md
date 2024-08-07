@@ -8,10 +8,15 @@ The dataset used in this project is the IMDB dataset, which contains 40,000 movi
 # Models and Techniques
 # Vectorization Techniques
 CountVectorizer with Binary Attribute (binary=True)
+
 CountVectorizer without Binary Attribute (binary=False)
+
 TfidfVectorizer
+
 Naive Bayes Models
+
 BernoulliNB
+
 MultinomialNB
 
 # Best Performing Model
