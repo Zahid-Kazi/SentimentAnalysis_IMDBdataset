@@ -5,8 +5,7 @@ This project performs sentiment analysis on the IMDB dataset using various vecto
 # Dataset
 The dataset used in this project is the IMDB dataset, which contains 40,000 movie reviews labeled as positive or negative.
 
-# Models and Techniques
-# Vectorization Techniques
+# Models and Vectorization Techniques used
 CountVectorizer with Binary Attribute (binary=True)
 
 CountVectorizer without Binary Attribute (binary=False)
