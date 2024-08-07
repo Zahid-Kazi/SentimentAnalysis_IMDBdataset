@@ -18,7 +18,7 @@ BernoulliNB
 
 MultinomialNB
 
-# Preprocessing
+# Preprocessing done
 Stopword removal
 
 Punctuation removal
